@@ -1,84 +1,172 @@
+<!--
+NAVEEN RAJ B | GITHUB PROFILE README
+Repository name: Naveenraj003
+File: README.md
+-->
 
-# Hi, I'm Naveen Raj 👋
+<div align="center">
 
-### Software Engineer in the Making | Java | Python | SQL | AI/ML
+# Hi, I'm Naveen Raj B 👋
 
-I'm a final-year **B.E. Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at K.S. Rangasamy College of Technology, India.
+### Software Engineering · Java · Python · SQL · AI/ML
 
-I enjoy building practical software, solving problems, and exploring how AI can make software systems more reliable.
+**I build software, investigate problems, and evaluate systems using evidence.**
 
-My current focus is strengthening my software engineering fundamentals, building useful projects, and learning technologies that solve real-world problems.
+Final-year B.E. CSE (AI & ML) student at  
+**K.S. Rangasamy College of Technology, Tamil Nadu, India**
 
-- 💻 **Primary focus:** Software Engineering and Backend Development
-- ☕ **Languages:** Java, Python, SQL
-- 🧠 **Research interest:** AI/ML and reliable AI-agent systems
-- 🔬 **Current project:** AIRE-Trace — early failure-warning analysis for AI-agent execution traces
-- 📈 **Currently improving:** Data Structures and Algorithms, SQL, and backend development
-- 🎯 **Goal:** Become a strong software engineer who builds useful, dependable systems
+<br/>
 
----
+<a href="https://linkedin.com/in/naveenraj2006">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Naveenraj003">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/NaveenRaj-cody/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/naveenrajoffici1">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
 
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases and Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Project
+## `whoami`
 
-### AIRE-Trace — Early Failure Warning for AI Agents
+I'm an engineering student focused on becoming a strong software engineer, with additional interests in artificial intelligence, machine learning, and reliable AI systems.
 
-An offline research framework that analyzes recorded AI-agent execution traces to investigate whether early warning signals can identify executions likely to fail.
+I prefer understanding how a system works over simply making it run. My project work involves implementing software, examining failures, evaluating results, and documenting what the evidence actually supports.
 
-**What I worked on:**
-- Analyzing execution traces using prefix-only information to avoid future-information leakage.
-- Evaluating early failure-warning performance under a false-alarm constraint.
-- Comparing baseline models and investigating the contribution of dynamic execution signals.
-- Building a reproducible evaluation workflow with statistical testing.
+My current priorities are strengthening Java, problem-solving, SQL, backend development, and software engineering fundamentals while building projects that demonstrate practical engineering ability.
 
-**Tech:** Python, FastAPI, scikit-learn, pandas, NumPy
+- 🎓 **Education:** B.E. Computer Science and Engineering (AI & ML), KSRCT
+- 💻 **Primary career direction:** Software Engineering
+- ☕ **Programming focus:** Java, Python, SQL
+- 🧪 **Research focus:** Reliability and early failure warning for AI agents
+- 🔧 **Development interests:** APIs, backend systems, testing, and reproducible experiments
+- 📍 **Based in:** Tamil Nadu, India
 
-🔗 [Explore my repositories](https://github.com/Naveenraj003?tab=repositories)
+---
+
+## 🚀 Featured Project — AIRE-Trace
+
+### AI-agent Reliability Evaluation through Trace-based Analysis
+
+**AIRE-Trace** is my final-year project and research framework for evaluating early failure-warning monitors using recorded AI-agent execution traces.
+
+The objective is to investigate whether information available during an agent's execution can provide useful warning signals before a failure occurs.
+
+Rather than relying only on overall prediction accuracy, the framework evaluates warning performance under a false-alarm constraint.
+
+**Engineering and research work**
+
+- Developed an offline evaluation workflow for recorded agent execution traces.
+- Used prefix-only inputs to prevent future execution information from leaking into predictions.
+- Evaluated baseline models and alternative approaches to failure warning.
+- Investigated dynamic execution signals, including errors and retries.
+- Used bootstrap confidence intervals and multiple-comparison correction to assess results.
+- Built a FastAPI-based artifact-playback demo and automated tests.
+
+**Technical stack**
+
+`Python` · `FastAPI` · `scikit-learn` · `pandas` · `NumPy` · `CSV/Parquet` · `pytest`
+
+**Evaluation snapshot**
+
+| Metric | Evaluated result |
+|---|---:|
+| Canonical episodes | 636 |
+| Test episodes | 416 |
+| Dynamic model Recall@FAR | 0.1167 |
+| Dynamic model false-alarm rate | 0.0404 |
+| Static baseline Recall@FAR | 0.0078 |
+| Static baseline false-alarm rate | 0.0303 |
+| Automated tests | 54/54 passing |
+
+The reported Recall@FAR comparison uses the project's selected evaluation threshold. The dynamic approach improved recall over the static baseline in this evaluation, but discrimination remained modest: the evaluated AUROC values ranged from approximately 0.51 to 0.64. These results are evidence from the evaluated datasets, not a claim of universal AI-agent failure prediction.
+
+**Project status:** Research and evaluation project; publication acceptance is not claimed.
+
+🔗 [Browse my GitHub repositories](https://github.com/Naveenraj003?tab=repositories)
+
+---
+
+## 🧰 Technologies I Work With
+
+### Programming languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+### Backend and web development
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" alt="REST APIs"/>
+</p>
+
+### Data, AI/ML, and engineering tools
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+I use these technologies across coursework, development, and research. My goal is to develop deeper practical proficiency rather than claim equal expertise in every tool.
+
+---
+
+## 🏅 Certification & Recognition
+
+- **Oracle Cloud Infrastructure DevOps Professional — 2025**
+- **IEEE Student Member recognition**
 
 ---
 
 ## 🧩 Problem Solving
 
-I use coding platforms to practise programming, strengthen my problem-solving skills, and prepare for technical interviews.
+I practise coding problems to improve algorithmic thinking, implementation, and technical interview readiness.
 
-- [LeetCode](https://leetcode.com/NaveenRaj-cody/)
-- [HackerRank](https://www.hackerrank.com/profile/naveenrajoffici1)
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Naveenraj003-181717?style=for-the-badge&logo=github)](https://github.com/Naveenraj003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naveenraj2006)
+- [LeetCode — Naveen Raj](https://leetcode.com/NaveenRaj-cody/)
+- [HackerRank — Naveen Raj](https://www.hackerrank.com/profile/naveenrajoffici1)
 
 ---
 
-> **My approach:** Learn the fundamentals, build things that work, measure the results, and keep improving.
+## 📌 What I'm Working Towards
 
+- Strengthening Java, object-oriented programming, DSA, and SQL.
+- Building backend applications with clean APIs and maintainable code.
+- Improving testing, debugging, and software design skills.
+- Exploring practical AI applications without overlooking reliability and evaluation.
+- Creating projects that demonstrate implementation decisions and measurable results.
+
+---
+
+## 🤝 Connect
+
+I'm interested in software engineering opportunities, practical development projects, and conversations about reliable AI systems.
+
+- **LinkedIn:** [linkedin.com/in/naveenraj2006](https://linkedin.com/in/naveenraj2006)
+- **GitHub:** [github.com/Naveenraj003](https://github.com/Naveenraj003)
+
+<div align="center">
+
+*Learn the fundamentals. Build the system. Test the evidence. Improve continuously.*
+
+</div>
